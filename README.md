@@ -27,6 +27,20 @@ The process of improving the model by changing the following parameters:
   **Batch size**
 
   **Epoch**
+  
+# Run Program
+
+Download the **train.csv** and **test.csv** file following the link below:
+
+MNIST: **https://www.kaggle.com/c/digit-recognizer/data**
+
+Run file NN_MNIST.ipynb, run all cell. You receive file sample_submission.csv
+
+Submit sample_submission.csv at **https://www.kaggle.com/c/digit-recognizer/submit**
+
+# Kaggle
+
+
 
 # Experience
 
