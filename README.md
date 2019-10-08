@@ -12,3 +12,29 @@ The training data set, (train.csv), has 785 columns. The first column, called "l
 # Software requirements
 
 Python 3.6, Keras 2.2.4, numpy, matplotlib, scikit-learn, pandas, csv
+
+# Improve Model
+All models have: 
+
+**input layer + 1 hidden layer(activation='relu) + 1 ouput layer(activation='softmax')**
+
+The process of improving the model by changing the following parameters:
+
+  **Number node**
+
+  **Learning rate**
+
+  **Batch size**
+
+  **Epoch**
+
+# Experience
+
+| Model |	Number node	| Batch size	| Epoch	| Learning rate | Acc_Val |
+|---|---|---|---|---|---|
+| Model 1 |	784	| 32 |64 | 0.05 | 0.9763 |
+| Model 2	| 512 |64 | 64 | 0.1	| 0.9757 |
+| Model 3 |	1024 | 64 |	64 | 0.1 | 0.9785 |
+| Model 4 |	256 |	128 |	64 | 0.1 | 0.9714 |
+
+
