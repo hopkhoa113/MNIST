@@ -40,6 +40,12 @@ Submit sample_submission.csv at **https://www.kaggle.com/c/digit-recognizer/subm
 
 # Kaggle
 
+## Account
+
+![](image/image_4.PNG)
+
+## Rank
+
 ![](image/image_2.PNG)
 
 ![](image/image_3.PNG)
