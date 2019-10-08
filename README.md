@@ -38,17 +38,6 @@ Run file NN_MNIST.ipynb, run all cell. You receive file sample_submission.csv
 
 Submit sample_submission.csv at **https://www.kaggle.com/c/digit-recognizer/submit**
 
-# Kaggle
-
-## Account
-
-![](image/image_4.PNG)
-
-## Rank
-
-![](image/image_2.PNG)
-
-![](image/image_3.PNG)
 
 # Experience
 
@@ -62,4 +51,14 @@ Submit sample_submission.csv at **https://www.kaggle.com/c/digit-recognizer/subm
 | Model 6 | 1000 | 32 | 64 | 0.1 | 0.9760 |
 | Model 7 | 1000 | 32 | 32 | 0.1 | **0.9798** |
 
+
+# Kaggle
+
+### Account
+
+![](image/image_4.PNG)
+
+### Rank
+
+![](image/image_3.PNG)
 
