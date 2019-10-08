@@ -50,5 +50,8 @@ Submit sample_submission.csv at **https://www.kaggle.com/c/digit-recognizer/subm
 | Model 2	| 512 |64 | 64 | 0.1	| 0.9757 |
 | Model 3 |	1024 | 64 |	64 | 0.1 | 0.9785 |
 | Model 4 |	256 |	128 |	64 | 0.1 | 0.9714 |
+| Model 5 | 1024 | 128 | 64 | 0.1 | 0.9745 |
+| Model 6 | 1000 | 32 | 64 | 0.1 | 0.9760 |
+| Model 7 | 1000 | 32 | 32 | 0.1 | 0.9798 |
 
 
