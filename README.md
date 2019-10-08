@@ -51,6 +51,15 @@ Submit sample_submission.csv at **https://www.kaggle.com/c/digit-recognizer/subm
 | Model 6 | 1000 | 32 | 64 | 0.1 | 0.9760 |
 | Model 7 | 1000 | 32 | 32 | 0.1 | **0.9798** |
 
+# Results
+
+Model traing on training set 42,000 samples which devide into 33,600 training set and 8,400 valid set.
+
+Traning accuracy: 1.0
+
+Validation accuracy: 0.9798
+
+**model: Model: Input + 1000 node hidden layer+ 10 node output sofmax**
 
 # Kaggle
 
